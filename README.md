@@ -1,7 +1,7 @@
 # Cat and Dog Image Classifier
 ### A Project done for Foundation of Data Science (II/I)
 
-***Source Codes:*** Model.py, Test.py, Train.py
+***Source Codes:*** model.py, test.py, train.py
 
 ***Documentation:*** documentation.ipynb (all the source codes can be run from here)
 
@@ -11,4 +11,5 @@
 **Submitted By:**
 *Ritwik Pathak*
 (ACE081BCT068)
+
 
